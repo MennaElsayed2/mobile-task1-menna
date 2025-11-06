@@ -1,5 +1,6 @@
 # Mobile App
-contains two-screen. This task demonstrate the navigation task.
+contains two-screen.
+This task demonstrate the navigation task.
 
 
 ## Features
@@ -9,21 +10,21 @@ contains two-screen. This task demonstrate the navigation task.
 * **Activity Navigation:** Demonstrates basic navigation from one `Activity` to another using an `Intent`.
 * **Resource Management:** Uses `strings.xml` for all user-facing text.
 
-## 🛠️ Tech Stack
+##  Tech essentials
 
 * **Language:** Kotlin
 * **Toolkit:** Android SDK
 * **UI Layout:** XML
 * **Architecture:** ViewBinding
 
-## 🚀 How to Run
+## Running Process
 
 1.  **Clone the repository:**
    
 2.  **Open in Android Studio:**
     * Open Android Studio.
     * Select "Open an Existing Project".
-    * Navigate to the cloned `ProfileApp` directory and open it.
+    * Navigate to the cloned `Mobile App` directory and open it.
 
 3.  **Add Profile Image:**
     * Find or create an image (e.g., `avatar.png`).
