@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProfileApp</string>
+    <string name="main_caption">Click the image to see profile details</string>
+    <string name="profile_image_desc">User Profile Image</string>
+    <string name="detail_title">Profile Details</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">Email:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="user_name">John Doe</string>
+    <string name="user_email">john.doe@example.com</string>
+    <string name="user_phone">+1 123 456 7890</string>
+</resources>
