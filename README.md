@@ -10,14 +10,14 @@ This task demonstrate the navigation task.
 * **Activity Navigation:** Demonstrates basic navigation from one `Activity` to another using an `Intent`.
 * **Resource Management:** Uses `strings.xml` for all user-facing text.
 
-##  Tech essentials
+## Tech essentials
 
 * **Language:** Kotlin
 * **Toolkit:** Android SDK
 * **UI Layout:** XML
 * **Architecture:** ViewBinding
 
-## Running Process
+##Running Process
 
 1.  **Clone the repository:**
    
